@@ -1,0 +1,199 @@
+﻿Albrecht Präzision GmbH & Co. KG	Albrecht Präzision GmbH & Co. KG	Antoniusstr. 25	Moritz Kächele	Uwe Rolf
+Allmendinger Elektromechanik KG	Allmendinger Elektromechanik KG	Robert-Bosch-Str. 24-26	Daniel Allmendinger	Nadine Allmendinger
+alphacam GmbH	alphacam GmbH	Erlenwiesen 16	Dr. Hartmut Diedenhoven	<Not Found>
+ALZMETALL Werkzeugmaschinenfabrik und Gießerei Friedrich GmbH & Co. KG	Alzmetall Werkzeugmaschinenfabrik und Gießerei Friedrich - GmbH & Co. KG	Harald-Friedrich-Str. 2-8	Rudolf Wallisch	Ludwig Probst
+Apfel GmbH	Apfel GmbH	Gerhart-Hauptmann-Str. 56	Dirk Böcker	<Not Found>
+Baublies AG	Baublies AG	Brunnenfeldstr. 42	Thomas Kappel	<Not Found>
+Bedrunka+Hirth Gerätebau GmbH	Bedrunka & Hirth Gerätebau GmbH	Gießnau 8	Friedrich Kellner	<Not Found>
+Bessey Tool GmbH & Co. KG	BESSEY Tool GmbH & Co. KG	Mühlwiesenstr. 40	Carsten Spang	Rainer Steinle
+CHIRON Group SE	CHIRON Group SE	Kreuzstr. 75	Dr. Claus Eppler	Jörg Seifermann
+CHIRON WERKE GmbH & Co. KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+D&M Werkzeugmaschinen GmbH	D&M Werkzeugmaschinen GmbH	Zeppelinstr. 15	Karin Stigler	<Not Found>
+E. Zoller GmbH & Co. KG	E. ZOLLER GmbH & Co. KG Einstell- und Messgeräte	Gottlieb-Daimler-Str. 19	Peter Hunke	<Not Found>
+ERBO GmbH	ERBO Fahrzeugteile GmbH	Hattingerstr. 805	Hartmund Erichson	<Not Found>
+EVO Informationssysteme GmbH	EVO Informationssysteme GmbH	Ludwig-Bölkow-Str. 15	Heiko Betzler	Antje Widmann
+Fauser AG	Fauser AG	Talhofstr. 30	Christine Fauser	<Not Found>
+Fritz Hartmann GmbH & Co. KG	Fritz Hartmann Präzisionswerkzeuge GmbH & Co KG	Benzstr. 45	Hans Junginger	Isa Hartmann
+GEWEFA Josef C. Pfister GmbH & Co. KG	GEWEFA JOSEF C. PFISTER GmbH & Co. KG	Josef-Mayer-Str. 50	Josef Norbert Schmid	Beate Pfister
+GROB-WERKE GmbH & Co. KG	GROB-WERKE GmbH & Co. KG	Industriestr. 4	Robert Schmalholz	Johann Silvester Müller
+Haberland Zerspanungstechnik Industriewerkzeughandel	Haberland Zerspanungstechnik Industriewerkzeughandel e. Kfm.	Neckarstr. 11	Falk Haberland	<Not Found>
+HAWE Hydraulik SE	HAWE Hydraulik SE	Einsteinring 17	Stefan Schmid	Gerhard Trappe
+HTT Tiefbohrtechnik GmbH	HTT Tiefbohrtechnik GmbH	Gutenbergstr. 38A	Marcus Genkinger	<Not Found>
+imsimity GmbH	imsimity GmbH	Leopoldstr. 1	Martin Zimmermann	<Not Found>
+J. G. WEISSER SÖHNE GmbH & Co. KG	J.G. Weisser Söhne GmbH & Co. KG	Bundesstr. 1	Manfred Wegner	Robert Rettich
+J. Rettenmaier & Söhne GmbH + Co. KG	J. Rettenmaier & Söhne GmbH + Co KG	Kalistr. 57	Heinrich Petersen	Alfred Landkammer
+KAESER KOMPRESSOREN SE	KAESER KOMPRESSOREN SE	Carl-Kaeser-Str. 26	Uwe Herr	Dipl.-Wirtsch.-Ing. Thomas Kaeser
+Kapp GmbH & Co. KG	KAPP GmbH & Co. KG	Callenbergerstr. 52	Matthias Kapp	Michael Kapp
+Karl Klink GmbH	Johann Klink jun. Kartoffelgroßhandel GmbH	Schrobenhausenerstr. 82	Johann Klink	<Not Found>
+LMT Kieninger GmbH	LMT Kieninger GmbH & Co. KG	Vogesenstr. 23	Christian Stephan Kirchmann	Christian Helmut Krieg
+Metabowerke GmbH	Metabowerke GmbH	Metaboallee 1	Nadine Lillich	Oliver Haug
+Metallkraft Metallbearbeitungsmaschinen	M-CON Metall- und Blechbearbeitungsmaschinen e.K.	Kölnerstr. 85	Dorothea Meis	<Not Found>
+müller co-ax ag	müller co-ax ag	Gottfried-Müller-Str. 1	Tobias Schnizler	Bernd Conrad
+norelem Normelemente KG	norelem Normelemente KG	Volmarstr. 2	Beatrice Kipp	Bernd Plocher
+Pero AG	Perlo AG	Württembergallee 12	Thomas Bernstein	<Not Found>
+rose plastic AG	rose plastic AG	Rupolzerstr. 53	Christian Karl Straub	Bernd Gerber
+Schaeffler Technologies AG & Co. KG	Schaeffler Technologies AG & Co. KG	Industriestr. 1-3	Mark Albrecht	Dirk Schreiber
+SCHNEEBERGER J. Maschinen GmbH	J. Schneeberger Maschinen GmbH	Im Neuenbühl 16	Dipl.-Ing. ETH Jürg Schneeberger	<Not Found>
+SEAL Systems AG	SEAL Systems AG	Lohmühlweg 4	Angela Strauß	<Not Found>
+Supfina Grieshaber GmbH & Co. KG	Supfina Grieshaber GmbH & Co. KG	Schmelzegrün 7	Peter Grabsch	Reiner Heitzmann
+Vision Engineering Ltd.	VISION ENGINEERING e.K.	Hugo-Eckener-Str. 33	Malgorzata Barbara Szwarc	<Not Found>
+VITO AG	VITO AG	Eltastr. 6	Andreas Schmidt	<Not Found>
+Vmax Präzisionswerkzeuge GmbH & Co. KG	Vmax Präzisionswerkzeuge GmbH & Co.KG	Steinbeisstr. 13	Marc-Philip Hieber	<Not Found>
+WAGNER® Werkzeugsysteme Müller GmbH	Weinmüller Formen- und Werkzeugbau GmbH	Hundshalde 5	Robin Stefan Weinmüller	Marc Christian Weinmüller
+WENZEL Group GmbH & Co. KG	Wenzel Group GmbH & Co. KG	Werner-Wenzelstr.-O.-Nr.	Karl Nagel	<Not Found>
+Werkzeugsysteme Müller GmbH	Werkzeugsysteme Müller GmbH	Robert-Bosch-Str. 5	Patrick Müller	Betriebswirt Bernd Döttinger
+Bruins Instruments	Bruins Instruments Hans Joachim Bruins	Benzstr. 4	Heike Fürstenfeldbruck	Oberdorfen Klaus
+LabVantage Solutions Europe Limited	Labvantage Solutions Europe Limited, German Branch	Leipzigerpl. 9	Swadsh Chatterjee	Marc Alan Aronowitz
+Linde AG	Linde Aktiengesellschaft	Klosterhofstr. 1	Johannes Ranft	Lorenzo Coceani
+LMS Consult GmbH & Co. KG	LMS Consult GmbH u. Co. KG	Gewerbestr. 6	Prof. Dr. Philipp Wolfram Terres	<Not Found>
+Memmert GmbH & Co. KG	Memmert GmbH + Co. KG	Willi-Memmert-Str. 90-96	Philipp Schwarm	Matthias Grosser
+Ocean Optics	Ocean Optics B. V. - Zweigniederlassung Deutschland	Maybachstr. 11	Dr. Athanasios Kokorakis	Zimon Norlin
+pipettenkalibrierung.de - Dr. Klinkner & Partner GmbH	Dr. Klinkner & Partner GmbH	Altenkesselerstr. 17	Dipl.-Chemiker Dr. Roman Klinkner	<Not Found>
+Th. Geyer GmbH & Co. KG	Th. Geyer GmbH & Co. KG	Dornierstr. 4	Feryal Eroglu	Oliver-Alexander Geyer
+WALDNER Laboreinrichtungen GmbH & Co. KG	WALDNER Laboreinrichtungen GmbH & Co. KG	Anton-Waldner-Str. 10-16	Stephan Klein	Dr. Gert Richter
+Adler AG	Dürkopp Adler AG	Potsdamerstr. 190	Bernd Bräuer	Thomas Vogel
+Adval Tech Germany GmbH & Co. KG	Adval Tech (Germany) GmbH & Co. KG	Hans-Oetiker-Str. 1-5	Philipp Gehring	Andreas Mayer
+Alfred Konrad Veith GmbH & Co. KG	Alfred Konrad Veith GmbH & Co. KG	Verrenberger Weg 1	Zeljko Zinic	Diplom-Ingenieur Jürgen Pfledderer
+Bernecker Umformtechnik GmbH	Bernecker Umformtechnik GmbH	In den Waldäckern 39	Bernd Ulrich Stäbler	Martina Doris Lina Placht
+Biegema GmbH & Co. KG	Biegema GmbH & Co. KG	Finsterbachstr. 13	Petra Wagner	<Not Found>
+Bilz Vibration Technology AG	Bilz Vibration Technology AG	Böblingerstr. 25	Sieghard Geske	<Not Found>
+BLANCO Professional GmbH + Co KG	BLANCO Professional GmbH + Co KG	Flehingerstr. 59	Jürgen Schlagentweith	Markus Blümle
+Eugen G. Leuze Verlag KG	Eugen G.Leuze Verlag KG	Karlstr. 4	Ingeborg Leuze	<Not Found>
+Georg Oest Mineralölwerk GmbH & Co. KG	Georg Oest Mineralölwerk GmbH & Co.KG.	Georg-Oest-Str. 4	Detlef Stülzebach	Beatrix Luise Dom
+Heckler AG	H&K AG	Heckler-&-Koch-Str. 1	Uwe Kaltenbach	Dipl.-Ingenieur Ernst Mauch
+HEGLA Fahrzeugbau GmbH & Co. KG	HEGLA Maschinenbau GmbH & Co. KG	Industriering 5	Peter Herrmann	Kauffrau Gerlinde Glaser
+INOVAN GmbH & Co. KG	Inovan GmbH & Co. KG	Industriestr. 44	Dr. Philipp Heinrich Hoff	Petra Milewski
+Keller Lufttechnik GmbH + Co. KG	Keller Lufttechnik GmbH + Co. KG	Neue-Weilheimer-Str. 30	Oliver Haase	Jens Kuhn
+Lechner Maschinenbau	Haus Feist GmbH, Einrichtung für psychisch Kranke	Brunhildstr. 3	Beate Aßmann Feist	Stephanie Rieker
+Leicht Stanzautomation GmbH	Leicht Stanzautomation GmbH	Werner-Heisenberg-Str. 4	Jörg Prinz	Annette Leicht
+Otto Bihler Maschinenfabrik	Otto Bihler Maschinenfabrik GmbH & Co. KG	Lechbruckerstr. 15	Normann Blasig	Dr. Joachim Schuster
+PASS Stanztechnik AG	pass Stanztechnik AG	Am Steinkreuz 2	Stefan Kraft	<Not Found>
+Paul Hafner GmbH Werkzeugbau & Stanztechnologie	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Pero AG Anlagen zur Teilereinigung	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Peter Prinzing GmbH Maschinenbau	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+PROFILMETALL Gruppe PROFILMETALL Engineering GmbH PROFILMETALL GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+PROfirst Group TOL Computersysteme GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+RUWI GmbH Maschinenbau	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Schweikert GmbH Werkzeugbau Stanz-Pressteile Baugruppenfertig	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+SPRINGFIX Befestigungstechnik GmbH	Sprinck Gesellschaft für Sanitär- und Heizungstechnik mbH		Karl-Heinz Sprinck	<Not Found>
+Thomas Waidner GmbH Werkzeugbau  Stanz- und Umformtechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Trafö Förderanlagen GmbH & Co. KG	Trafö-Förderanlagen GmbH & Co. KG	Bahnhofstr. 80	Bernhard Gnad	Alexander Bayer
+Tusch und Richter GmbH & Co. KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Vollmer GmbH Werkzeugbau	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+WAHLENMEIER SCHWEISSTECHNIK GMBH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Weinmann Aach AG	Weinmann Aach AG	Tübingen	Sascha Rauter	Gebhard Strähler
+WERZ GmbH & Co. KG Vakuum Wämebehandlung	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+www.blech-entgratung.de by LIMA Ventures GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+ZETKA  Stanz- und Biegetechnik AG & Co. KG Sitz Füssen	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+ZIMMER Maschinen GmbH & Co. KG	ZIMMER Maschinen GmbH & Co. KG	Planckstr. 5	Frank Zimmer	<Not Found>
+axiss GmbH dispensing systems	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Dr. Hönle AG UV Technology	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Greidenweis Maschinenbau GmbH Sondermaschinen	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Konradin-Verlag  Robert Kohlhammer GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+KÜBLER ESSIG Maschinenbau GmbH	KÜBLER ESSIG Maschinenbau GmbH	Unterer Brand 4	Jens Kalmbach	Hanna Kübler
+Reiß GmbH High-Tech SMP Kleb-Dichtstoffe	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Blum-Novotest GmbH Fertigungs-Messtechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Carl Zeiss Automated  Inspection GmbH & Co. KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+cm creativ management AG	cm creativ manag, ement AG	Alte-Forstlahmer-Str. 22	Manfred Weber	<Not Found>
+cm creativ management AG MECHATRONIK	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+CTS-Schreiner GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Duwe-3d AG	Duwe-3d AG	Peter-Dornier-Str. 9	Claus Knoll	Ute Duwe
+Fachpressestand P. E. Schall GmbH & Co. KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+FGB Fertigungsgerätebau Adolf Steinbach GmbH & Co. KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Gollub Werkstoffprüfung  GmbH & Co. KG	Gollub Werkstoffprüfung GmbH & Co. KG	Johannes-Gutenberg-Str. 7	Diplom-Ingenieur Bernhard Gollub	<Not Found>
+InProQ GM GmbH Mess- und Prüftechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+KERN & SOHN GmbH Waagen, Prüfgewichte, DAkkS-Kalibrierlabor	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Leitner Industrial Endoscopy	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+MBR GmbH Handels u. Vertriebsgesellsch.	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Messtechnik Sachs GmbH	Rosenberger Messtechnik Sachsen GmbH	Robert-Bosch-Str. 8	Peter Böhmer	Steffen Schott
+messwelk GmbH Dimensionelle Messtechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+MPF Optics	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+MyTeam Messtechnik GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+NELA Brüder Neumeister GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+PALKA Messtechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Prüftechnik Elisabeth Koch	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Qioptiq, an Excelitas company	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+QPT Innovative Technik Handels GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Rauscher GmbH	INGÉROP Deutschland GmbH	Dillwächterstr. 5	Thomas Sontag	<Not Found>
+Saurer MarkingSolutions  Markiertechnologie	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+TQI Innovationszentrum	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+TQI Metricon Kalibrierservice	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Ultra Präzision Messzeuge GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Vester Elektronik GmbH A Kistler Group Company	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Vötsch Industrietechnik GmbH Umweltsimulation Wärmetechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Wimeko Messtechnik e.K.	Wimeko Messtechnik e.K.	Dr.-Rudolf-Schieber-Str. 2	Christoph Winter	<Not Found>
+Wolf Maschinenbau AG	Wolf Maschinenbau AG	Wilhelm-Maybach-Str. 2	Diplom-Ingenieur Martin Wolf	<Not Found>
+Fraunhofer-Einrichtung für Wertstoffkreisläufe und Ressourcenstrategie IWKS	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Actron AG	ACTRON AG	Justus-von-Liebigstr. 2-14	Michael Wöginger	<Not Found>
+ADEO Heatpipe Ltd.	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Advantech Europe B.V. Zweigniederlassung Deutschland	Advantech Europe B.V. Zweigniederlassung Deutschland	Industriestr. 15	Ke-Cheng Liu	<Not Found>
+AMS Technologies AG	AMS Technologies AG	Landsbergerstr. 350-356	Sonja Gehr	Karin Melch
+ANSMANN AG	ANSMANN AG	Industriestr. 10	Kurt Scheuermann	Manfred Blank
+as electronic GmbH & Co. KG	as electronic GmbH & Co. KG	Römerstr. 39	Patric Moses	<Not Found>
+Avnet Abacus	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Avnet Silica	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+AXTAL GmbH & Co.KG	Axtal GmbH & Co. KG	Herstellung	Brigitte Neubig	Bernd Neubig
+Azbil Europe NV	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+binder ITZ Innovations- & Technologiezentrum Franz Binder GmbH & Co Elektrische Bauelemente KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+centrotherm international AG	centrotherm international AG	Württembergerstr. 31	Roland Uwe Brunner	Roger Böttinger
+CML Group	CML Group SE	Im Ermlisgrund 8	Helge Josef Auer	Moritz Heiko Hoeft
+Compupack Technology Niederlassung Deutschland	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+ComS.I.T. AG Component Solutions in Time	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+congatec AG	congatec AG	Auwiesenstr. 5	Thomas Schultze	Jason Lee Carlson
+Conrad Electronic SE	Conrad Electronic SE	Klaus-Conrad-Str. 1	Ralf Bühler	Jürgen Kassel
+COSINUS Messtechnik GmbH	COSINUS Messtechnik GmbH	Rotwandweg 4	Josef Gries	Leonhard Wanner
+CS CLEAN SOLUTIONS AG	CS CLEAN SOLUTIONS AG	Fraunhoferstr. 4	Stefanie Ullius	<Not Found>
+DELTEC Automotive GmbH & Co. KG	Fa. DELTEC Automotive GmbH & Co. KG	Dr.-Georg-Schäfer-Str. 1	Wolfgang Büchler	Clife Hermanowski
+Deutscher Christlicher Techniker-Bund e.V.	Deutscher Christlicher Techniker-Bund e.V.	Korntal-Münchingen	<Not Found>	<Not Found>
+Diener electronic GmbH + Co. KG Plasma Surface Technology	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Diotec Semiconductor AG	DIOTEC SEMICONDUCTOR AG	Kreuzmattenstr. 4	Dr. Saverio Barboni	Jürgen Lämmlin
+EKL AG	EKL AG	Nadlerstr. 8-10	Robert Heiß	<Not Found>
+Electrovac Hacht & Huber GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Elektrotechnik Weber	Weber Elektrotechnik GmbH	Coulangerstr. 2	Thomas Weber	<Not Found>
+Endrich Bauelemente Vertriebs GmbH	Endrich Bauelemente Vertriebs GmbH	Hauptstr. 56	Armin Bruhn	<Not Found>
+ERNI Electronics GmbH & Co. KG	ERNI Production GmbH & Co. KG	Seestr. 9	Jürgen Sahm	Dr. Michael Burger
+ET System electronic GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Farnell element14	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Filmetrics Europe GmbH Deutschland	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+FINESTFOG GmbH Luftbefeuchtung + Wasseraufbereitung	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Franz Binder GmbH & Co. Elektrische Bauelemente KG	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Georg Schlegel GmbH & Co. KG Elektrotechnische Fabrik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+GEYER ELECTRONIC e.K.	Geyer Electronic e.K.	Lochhamer Schlag 5	Cordula Reichmann	<Not Found>
+Gruner AG	Eat the World GmbH	Sonnenallee 262	Dr. Kirsten Freifrau von Hutten zum Stolzenberg	Bettina Wulf
+Hala Contec GmbH & Co.KG	HALA Contec GmbH & Co. KG	Blumenstr. 12	Peter Hasch	<Not Found>
+Hannusch Industrieelektronik e. K. Claudia Hannusch	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Haydon Kerk Motion Solutions	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+HERMOS AG	Hermos AG	Gartenstr. 19	Jürgen Opel	Rainer Michael Herold
+IMOS Gubela GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Infineon Technologies AG	Infineon Technologies AG	Am Campeon 1-15	Angelique van der Burg	Andrea Birkmann
+Karl-Heinz Mauz GmbH EKULIT Elektrotechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+KERAFOL Keramische Folien GmbH	KERAFOL Holding GmbH	Koppepl. 1	Willi Neumüller	<Not Found>
+KERAFOL Keramische Folien GmbH & Co.KG	KERAFOL Keramische Folien GmbH & Co. KG	Koppepl. 1	Willi Neumüller	<Not Found>
+KIENZLE SYSTEMS Flach-Eingabe-Systeme	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Konradin-Verlag Robert Kohlhammer GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+L-3 NARDA Safety Test Solutions GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Layher AG flexible Technologie	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+MICRO-EPSILON Messtechnik GmbH & Co. KG	MICRO-EPSILON-MESSTECHNIK GmbH & Co. K.G.	Königbacherstr. 15	Andreas Rettenberger	<Not Found>
+nVent - SCHROFF GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+OKW Odenwälder Kunststoffwerke Gehäusesysteme GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Paul Leibinger GmbH & Co. KG	Paul Leibinger GmbH & Co. KG Nummerier- und Markierungssysteme	Daimlerstr. 14	Concetta Gebs	Horst Schoch
+phg Peter Hengstler GmbH + Co. KG	PHG Peter Hengstler GmbH + Co.KG	Dauchingerstr. 12	Stefan Emminger	<Not Found>
+Pittman Motors	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Proto-Electronics.com	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Pulse Electronics GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+RAFI GmbH & Co. KG	RAFI GmbH & Co. KG	Ravensburgerstr. 128-134	Richard Otmar Wörz	Markus Daniel Christian Folz
+Rosenberger Hochfrequenztechnik GmbH & Co. KG	Rosenberger Hochfrequenztechnik GmbH & Co. KG	Schulstr. 1	Johann Kroiß	<Not Found>
+Scheugenpflug AG	Scheugenpflug AG	Gewerbepark 23	Jürgen Wilde	Sergej Erbes
+SET GmbH - Smart Embedded Technologies	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+SÜSS MicroTec SE	SÜSS MicroTec SE	Schleißheimerstr. 90	Annegret Weber	<Not Found>
+Swoboda Wiggensbach KG	Swoboda Wiggensbach KG	Max-Swoboda-Str. 1	Bernd Müller	Johanna Freudenberg
+Telegärtner Karl Gärtner GmbH	Telegärtner Karl Gärtner GmbH	Lerchenstr. 35	Christian Roderich Benz	Kai Numssen
+Test Research, Inc. (TRI)	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+TTI, Inc.	TTI, Inc.	Ganghoferstr. 34	Thomas Rolle	Thomas Dudenhöffer
+Vishay Europe Sales GmbH c/o Vishay Electronic GmbH	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Weißer + Grießhaber GmbH Präzisionskunststoffspritzguss	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Würth Elektronik GmbH & Co. KG - WEdirekt, der Online-Shop für Leiterplatten und Schablonen	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Yageo Corporation	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+Yokogawa Deutschland GmbH Niederlassung Herrsching Test und Messtechnik	<Not Found>	<Not Found>	<Not Found>	<Not Found>
+ZETTLER electronics GmbH	Zettler Bauelemente GmbH	Junkersstr. 3	Wolfgang Renardy	<Not Found>
+Zollner Elektronik AG	Zollner Elektronik AG	Manfred-Zollner-Str. 1	Markus Aschenbrenner	Manfred Zollner
